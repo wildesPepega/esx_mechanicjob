@@ -11,17 +11,6 @@
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_mechanicjob
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_mechanicjob [esx]/esx_mechanicjob
-```
-
 ### Manually
 - Download https://github.com/ESX-Org/esx_mechanicjob/archive/master.zip
 - Put it in the `[esx]` directory
